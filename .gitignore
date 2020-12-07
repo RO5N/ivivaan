@@ -18,4 +18,4 @@ yarn-error.log*
 # Next.js
 /.next
 /dist
-.package-lock.json
+package-lock.json
