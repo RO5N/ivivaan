@@ -120,7 +120,7 @@ export default function Index() {
         {dataReceived ? (
           <div>
             <Typography
-              variant='h4'
+              variant='h3'
               component='h1'
               gutterBottom
               className={classes.heading}
